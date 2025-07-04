@@ -1,4 +1,4 @@
-# 🚀 KelvinLucas
+# 🚀 Kelvin Macharia
 
 ![wakatime](https://wakatime.com/badge/user/e9a11f49-f75a-4d25-960b-fde47c5a6742.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KelvinLucas)
