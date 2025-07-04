@@ -42,4 +42,3 @@ Glad to see you here! I'm **Kelvin Macharia**, a **CyberSecurity Engineer** pass
 <!--- - [🐦 Twitter](https://twitter.com/YourHandle)-->
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Wakatime](https://wakatime.com/badge/user/your-id.svg)
