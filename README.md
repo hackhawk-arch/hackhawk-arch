@@ -1,6 +1,6 @@
 # 🚀 KelvinLucas
 
-![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)
+![wakatime](https://wakatime.com/badge/user/e9a11f49-f75a-4d25-960b-fde47c5a6742.svg)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=KelvinLucas)
 ![Stars](https://img.shields.io/github/stars/KelvinLucas?style=flat-square)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website.com)
