@@ -1,16 +1,45 @@
-## Hi there 👋
+# 🚀 KelvinLucas
 
-<!--
-**hackhawk-arch/hackhawk-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![wakatime](https://wakatime.com/badge/user/your-wakatime-id.svg)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KelvinLucas)
+![Stars](https://img.shields.io/github/stars/KelvinLucas?style=flat-square)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website.com)
 
-Here are some ideas to get you started:
+<!---[![Twitter: @KelvinLucas](https://img.shields.io/twitter/follow/YourHandle?style=social)](https://twitter.com/YourHandle)--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kelvin-macharia-789481275/)
+<!---[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](https://your-portfolio.com)-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Glad to see you here! I'm **Kelvin Macharia**, a **CyberSecurity Engineer** passionate about **DevOps, Backend Development, Reverse Engineering**, and **Data Science**. I love building scalable solutions and exploring new technologies. Outside of coding, I contribute to **open-source projects**.
+
+---
+
+## 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-red?logo=redis)
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apache-airflow)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
+![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite)
+
+---
+
+## 📫 Let's Connect!
+<!--- - [🌐 Portfolio](https://your-portfolio.com)-->
+- [💼 LinkedIn](https://www.linkedin.com/in/kelvin-macharia-789481275/)
+<!--- - [🐦 Twitter](https://twitter.com/YourHandle)-->
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Wakatime](https://wakatime.com/badge/user/your-id.svg)
