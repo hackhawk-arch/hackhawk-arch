@@ -6,7 +6,7 @@
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website.com)
 
 <!---[![Twitter: @KelvinLucas](https://img.shields.io/twitter/follow/YourHandle?style=social)](https://twitter.com/YourHandle)--->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kelvin-macharia-789481275/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kelvin-macharia-789481275/)
 <!---[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](https://your-portfolio.com)-->
 
 ---
@@ -38,7 +38,7 @@ Glad to see you here! I'm **Kelvin Macharia**, a **CyberSecurity Engineer** pass
 
 ## 📫 Let's Connect!
 <!--- - [🌐 Portfolio](https://your-portfolio.com)-->
-- [💼 LinkedIn](https://www.linkedin.com/in/kelvin-macharia-789481275/)
+![💼 LinkedIn](https://www.linkedin.com/in/kelvin-macharia-789481275/)
 <!--- - [🐦 Twitter](https://twitter.com/YourHandle)-->
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
