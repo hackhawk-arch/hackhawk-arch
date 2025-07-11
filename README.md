@@ -1,12 +1,12 @@
 # 🚀 Kelvin Macharia
 
 ![wakatime](https://wakatime.com/badge/user/e9a11f49-f75a-4d25-960b-fde47c5a6742.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=KelvinLucas)
-![Stars](https://img.shields.io/github/stars/KelvinLucas?style=flat-square)
+<!---![visitors](https://visitor-badge.glitch.me/badge?page_id=KelvinLucas)--->
+![Stars](https://img.shields.io/github/stars/hackhawk-arch?style=flat-square)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website.com)
 
 <!---[![Twitter: @KelvinLucas](https://img.shields.io/twitter/follow/YourHandle?style=social)](https://twitter.com/YourHandle)--->
-![[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kelvin-macharia-789481275/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kelvin-macharia-789481275/)
 <!---[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black)](https://your-portfolio.com)-->
 
 ---
