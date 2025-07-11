@@ -1,6 +1,6 @@
 # 🚀 Kelvin Macharia
 
-![wakatime](https://wakatime.com/badge/user/e9a11f49-f75a-4d25-960b-fde47c5a6742.svg)
+[![wakatime](https://wakatime.com/badge/user/e9a11f49-f75a-4d25-960b-fde47c5a6742.svg)](https://wakatime.com/@e9a11f49-f75a-4d25-960b-fde47c5a6742)
 <!---![visitors](https://visitor-badge.glitch.me/badge?page_id=KelvinLucas)--->
 ![Stars](https://img.shields.io/github/stars/hackhawk-arch?style=flat-square)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fyour-website.com)
