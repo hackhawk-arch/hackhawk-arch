@@ -41,5 +41,10 @@ Glad to see you here! I'm **Kelvin Macharia**, a **CyberSecurity Engineer** pass
 ![💼 LinkedIn](https://www.linkedin.com/in/kelvin-macharia-789481275/)
 <!--- - [🐦 Twitter](https://twitter.com/YourHandle)-->
 
+---
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hackhawk-arch&show_icons=true)
